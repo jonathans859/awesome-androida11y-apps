@@ -156,4 +156,8 @@ License: Free and Open Source.
 Light-weight ebook and document reader.  
 Download: [GitHub](https://github.com/trypsynth/paperback/releases).  
 
+#### [Reshu PDF Reader](https://srstudio.dpdns.org/apps/reshu/)  
+Free PDF reader built for TalkBack users. Reads PDFs aloud with word, heading and link navigation, camera-to-book with on-device OCR, and offline English, Hindi and Urdu translation. No ads, no in-app purchases. Public pre-release.  
+Download: [Developer website](https://razashane548-debug.github.io/srq-builds/reshu/).  
+
 ### Wear OS
