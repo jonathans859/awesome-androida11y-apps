@@ -128,6 +128,11 @@ Keyboard for the blind, no visually visible keys. You tap where QWERTY keys woul
 Download: [GitHub](https://github.com/aaron-gh/taptype-releases/releases).  
 License: Free.  
 
+#### [GranPhone](https://github.com/dvinerlove/GranPhone)  
+Launcher and dialer with very large buttons for elderly and visually impaired users. SOS button, pill reminders, optional kiosk lockdown; works offline on old devices.  
+Download: [GitHub](https://github.com/dvinerlove/GranPhone/releases).  
+License: Free and Open Source.  
+
 ### Text to Speech  
 
 #### [Eloquence](https://play.google.com/store/apps/details?id=com.codefactoryglobal.eloquencetts)  
